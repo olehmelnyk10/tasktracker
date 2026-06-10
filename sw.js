@@ -1,7 +1,7 @@
 // TaskTracker PWA Service Worker v5
 // Рамедас Україна
 
-var CACHE = 'tt-v5';
+var CACHE = 'tt-v6';
 var ASSETS = [
   '/',
   '/index.html',
